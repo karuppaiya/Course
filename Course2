@@ -1,9 +1,8 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
-
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Karuppaiya M
+Algorithm Analysis
+I learned different algorithm and when to use it and learned follwing tyes of Algorithm Analysis.
+Types of Algorithm Analysis:
+Best case: Define the input for which algorithm takes less time or minimum time. In the best case calculate the lower bound of an algorithm. Example: In the linear search when search data is present at the first location of large data then the best case occurs.
+Worst Case: Define the input for which algorithm takes a long time or maximum time. In the worst calculate the upper bound of an algorithm. Example: In the linear search when search data is not present at all then the worst case occurs.
+Average case: In the average case take all random inputs and calculate the computation time for all inputs.
+And then we divide it by the total number of inputs.
